@@ -1,0 +1,222 @@
+{
+  "Alunos": [
+    {
+      "id": 2,
+      "nome": "Heloisa",
+      "idade": 5,
+      "serie": 1,
+      "matricula": "EF1785420190006"
+    },
+    {
+      "id": 3,
+      "nome": "Rodrigo",
+      "idade": 6,
+      "serie": 2,
+      "matricula": "EF1785420180000"
+    },
+    {
+      "id": 4,
+      "nome": "Arthur Miguel",
+      "idade": 8,
+      "serie": 3,
+      "matricula": "EF1785420170003"
+    },
+    {
+      "id": 5,
+      "nome": "Lucas",
+      "idade": 9,
+      "serie": 4,
+      "matricula": "EF1785420180007"
+    },
+    {
+      "id": 6,
+      "nome": "Valentina",
+      "idade": 10,
+      "serie": 5,
+      "matricula": "EF1785420150002"
+    },
+    {
+      "id": 7,
+      "nome": "Enzo Miguel",
+      "idade": 11,
+      "serie": 6,
+      "matricula": "EF1785420160001"
+    },
+    {
+      "id": 9,
+      "nome": "Marlon",
+      "idade": 13,
+      "serie": 7,
+      "matricula": "EF17854201400089"
+    },
+    {
+      "id": 8,
+      "nome": "Mônica",
+      "idade": 14,
+      "serie": 8,
+      "matricula": "EF1785420130005"
+    },
+    {
+      "id": 9,
+      "nome": "Maria Alice",
+      "idade": 15,
+      "serie": 9,
+      "matricula": "EF1785420120008"
+    },
+    {
+      "nome": "Cebolinha Souza",
+      "idade": 14,
+      "serie": 9,
+      "matricula": "EF1785420120009",
+      "id": 10
+    }
+  ],
+  "Professor": [
+    {
+      "id": 1,
+      "Nome": "Claudio",
+      "Diciplina": "Física",
+      "Turno": "Tarde",
+      "Sala": [
+        1007,
+        1008,
+        1009
+      ],
+      "Registro": 339716893627240
+    },
+    {
+      "id": 2,
+      "Nome": "Helena",
+      "Diciplina": "Educação Básica",
+      "Turno": "Manhã",
+      "Sala": 1001,
+      "Registro": 339716893627241
+    },
+    {
+      "id": 3,
+      "Nome": "Marcela",
+      "Diciplina": "Educação Básica",
+      "Turno": "Manhã",
+      "Sala": 1002,
+      "Registro": 339716893627242
+    },
+    {
+      "id": 4,
+      "Nome": "Luciana",
+      "Diciplina": "Educação Básica",
+      "Turno": "Manhã",
+      "Sala": 1003,
+      "Registro": 339716893627243
+    },
+    {
+      "id": 5,
+      "Nome": "Helena",
+      "Diciplina": "Educação Básica",
+      "Turno": "Manhã",
+      "Sala": 1001,
+      "Registro": 339716893627244
+    },
+    {
+      "id": 7,
+      "Nome": "Marcos",
+      "Diciplina": "Matemática",
+      "Turno": "Tarde",
+      "Sala": [
+        1008,
+        1007,
+        1006
+      ],
+      "Registro": 339716893627245
+    },
+    {
+      "id": 8,
+      "Nome": "Gustavo",
+      "Diciplina": "Educação Física",
+      "Turno": "Manhã",
+      "Sala": [
+        1003,
+        1004,
+        1005
+      ],
+      "Registro": 339716893627246
+    },
+    {
+      "id": 9,
+      "Nome": "Léticia",
+      "Diciplina": "Língua Portuguesa",
+      "Turno": "Tarde",
+      "Sala": [
+        1007,
+        1008,
+        1009
+      ],
+      "Registro": 339716893627247
+    },
+    {
+      "Nome": "Marcelo",
+      "Diciplina": "Educação Básica",
+      "Turno": "Manhã",
+      "Sala": 1004,
+      "Registro": 339716893627242,
+      "id": 10
+    }
+  ],
+  "Turma": [
+    {
+      "id": 1,
+      "Turno": "Manhã",
+      "Andar": "1",
+      "sala": "1001",
+      "Quantidade de alunos": 20
+    },
+    {
+      "id": 3,
+      "Turno": "Manhã",
+      "Andar": "2",
+      "sala": "1003",
+      "Quantidade de alunos": 21
+    },
+    {
+      "id": 4,
+      "Turno": "Manhã",
+      "Andar": "2",
+      "sala": "1004",
+      "Quantidade de alunos": 23
+    },
+    {
+      "id": 5,
+      "Turno": "Tarde",
+      "Andar": "3",
+      "sala": "1006",
+      "Quantidade de alunos": 25
+    },
+    {
+      "id": 6,
+      "Turno": "Tarde",
+      "Andar": "3",
+      "sala": "1006",
+      "Quantidade de alunos": 30
+    },
+    {
+      "id": 7,
+      "Turno": "Tarde",
+      "Andar": "3",
+      "sala": "1007",
+      "Quantidade de alunos": 33
+    },
+    {
+      "id": 8,
+      "Turno": "Tarde",
+      "Andar": "3",
+      "sala": "1008",
+      "Quantidade de alunos": 35
+    },
+    {
+      "Turno": "Manhã",
+      "Andar": "2",
+      "sala": "1005",
+      "Quantidade de alunos": 25,
+      "id": 9
+    }
+  ]
+}
